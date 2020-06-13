@@ -1,2 +1,2 @@
 # Machine-Learning
-#1 Contour Visualization for a function.
+1 Contour Visualization for a function.
